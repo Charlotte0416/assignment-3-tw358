@@ -2,8 +2,10 @@ name: "Assighnment-3"
 navbar:
   title: "Home"
   left:
-    - text: "Index"
+    - text: "Home"
       href: index.html
+    - text: "Charlotte"
+      href: Charlotte.html
     - text: "Vera"
       href: Vera.html
 output_dir: "."
