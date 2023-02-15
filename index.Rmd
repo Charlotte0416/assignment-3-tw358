@@ -1,5 +1,5 @@
 ---
-title: "index.Rmd"
+title: "index"
 author: "Charlotte"
 date: "2023-02-15"
 output: html_document
@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Name: Charlotte Wang
 
-### Collaborators: Jingzhi Zhang, Xingtan Yu
+### Collaborators: Jingzhi Zhang, Xingtan(Vera) Yu
 
 Link of my repo:https://github.com/Charlotte0416
 
