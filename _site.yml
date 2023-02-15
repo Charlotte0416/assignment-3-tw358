@@ -2,7 +2,7 @@ name: "Assighnment-3"
 navbar:
   title: "Home"
   left:
-    - text: "Home"
+    - text: "Index"
       href: index.html
     - text: "Charlotte"
       href: Charlotte.html
