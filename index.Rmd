@@ -1,5 +1,5 @@
 ---
-title: "index"
+title: "JoJo"
 author: "Charlotte"
 date: "2023-02-15"
 output: html_document
@@ -19,5 +19,5 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Link of my repo:https://github.com/Charlotte0416
 
-<center>![Photo of Neko kami](/Users/charlotte/Desktop/DSC00042 copy.JPG)
+<center>![Photo of Neko kami](./DSC00042 copy.JPG)
 
