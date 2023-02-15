@@ -1,5 +1,5 @@
 ---
-title: "JoJo"
+title: "JoJo the cat"
 author: "Charlotte"
 date: "2023-02-15"
 output: html_document
@@ -11,13 +11,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 
-## History of mysterious neko kami
-
 ### Name: Charlotte Wang
 
 ### Collaborators: Jingzhi Zhang, Xingtan(Vera) Yu
 
 Link of my repo:https://github.com/Charlotte0416
 
-<center>![Photo of Neko kami](./DSC00042 copy.JPG)
+<center>![Photo of JoJo](./DSC00042 copy.JPG)
 
