@@ -1,0 +1,23 @@
+---
+title: "index.Rmd"
+author: "Charlotte"
+date: "2023-02-15"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+## History of mysterious neko kami
+
+### Name: Charlotte Wang
+
+### Collaborators: Jingzhi Zhang, Xingtan Yu
+
+Link of my repo:https://github.com/Charlotte0416
+
+<center>![Photo of Neko kami](/Users/charlotte/Desktop/DSC00042 copy.JPG)
+
